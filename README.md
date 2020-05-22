@@ -1,3 +1,3 @@
-# ColorGuessingGame
+# Color Guessing Game
 
-<a href="https://douglas06mp.github.io/ColorGuessingGame/">Demo</a>
+## Demo [GitHub page](https://douglas06mp.github.io/javascript-color-guessing-game/)
